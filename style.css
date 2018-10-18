@@ -29,6 +29,7 @@ body{
 }
 .row{
     margin-left: -20px;
+    text-align: center;
 }
 .row + .row {
     margin-top: 20px;
@@ -38,6 +39,7 @@ body{
 }
 .column-1-4{
     width: 25%;
+    height: 420px;
     background-color: #f7f7f7
 }
 .column-1-4:hover{
